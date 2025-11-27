@@ -39,5 +39,9 @@
 
 ``yiw`` – Yank (copy) the current word.
 
+## Safati:
+
+``⌘ + ⇧ + L`` – Show/hide side pannel
+
 ## Source:
 [hotkeys xcode](https://betterprogramming.pub/13-xcode-shortcuts-to-boost-your-productivity-329c90512309)
